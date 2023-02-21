@@ -1,1 +1,4 @@
-# TNHS_APP
+# TNHS APP
+
+## getting started
+- template
